@@ -25,7 +25,7 @@ Update-Database
 
 ![MVC movie Results Page](mvc-movie.PNG)
 
-* The other links also interact have some some small implementation of bootstrap elements
+* The other links are also interactive and have some some small implementation of bootstrap elements on their views
 
 
 ***
