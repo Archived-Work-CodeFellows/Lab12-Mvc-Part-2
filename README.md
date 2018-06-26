@@ -19,10 +19,6 @@ Update-Database
 
 * Landing page
 
-![MVC app home](mvc-home.PNG)
-
-* If you click on Movie App link
-
 ![MVC movie Results Page](mvc-movie.PNG)
 
 * The other links are also interactive and have some some small implementation of bootstrap elements on their views
